@@ -13,6 +13,23 @@ Documentation is available at http://docs.meteor.com/.
 
 Try the getting started [tutorial](https://www.meteor.com/try).
 
+##What is Meteor?
+
+Meteor is a Javascript development platform that makes the building of modern web and mobile applications incredibly easy. By providing all of the neccessary tools and technologies in one cohesive environment, ideas can be brought to execution faster than previously possible. 
+
+#### One Language, Javascript. 
+All that is required to build full blown applications in Meteor is an understanding of the Javascript language.
+
+####Solving Unique Problems. 
+By taking care of all of the neccesary plumbing, Meteor allows you to concentrate on the aspects that make your application truly unique.
+
+####Built on Top of Proven Technology. 
+Meteor embraces the ecosystem, bringing the best parts of the extremely active JavaScript community to you in a careful and considered way.
+
+####Modern, Realtime Applications
+Meteor provides full stack reactivity, allowing your User Interface to seamlessly reflect the true state of the world in realtime with minimal development effort.
+
+
 ## Quick Start
 
 Install Meteor:
